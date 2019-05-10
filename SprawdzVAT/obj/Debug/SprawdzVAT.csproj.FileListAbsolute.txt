@@ -1,0 +1,15 @@
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\bin\Debug\SprawdzVAT.exe.config
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\bin\Debug\SprawdzVAT.exe
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\bin\Debug\SprawdzVAT.pdb
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.csprojAssemblyReference.cache
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\MainWindow.g.cs
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\App.g.cs
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT_MarkupCompile.cache
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT_MarkupCompile.lref
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\MainWindow.baml
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.g.resources
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.Properties.Resources.resources
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.csproj.GenerateResource.cache
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.csproj.CoreCompileInputs.cache
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.exe
+C:\Users\michal.januszko\source\repos\SprawdzVAT\SprawdzVAT\obj\Debug\SprawdzVAT.pdb
